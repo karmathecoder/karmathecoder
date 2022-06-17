@@ -1,4 +1,4 @@
-<h1 align="center"><a><img src="https://raw.githubusercontent.com/karmathecoder/karmathecoder/main/source/intro_type.gif" alt="karmathecoder"/></a></h1>
+<h1 align="center"><a><img src="https://raw.githubusercontent.com/karmathecoder/karmathecoder/main/source/intro_type.gif" alt="karmathecoder"/></a>
 <h1 align="center"> Namaste <img src='https://media.tenor.com/images/f83458652289855ac77a3270eb51ab9e/tenor.gif' width='50' height='50'> , I'm <em>Harsh</em> 👋 ! </h1>
 <h3 align="center">Exploring the Computers Fundamental 
 Exploring,Exploring, Exploring....<img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="40" height="40"/></h3>
@@ -7,9 +7,9 @@ Exploring,Exploring, Exploring....<img src="https://cultofthepartyparrot.com/fla
 - 🌱 I’m currently learning **Things I Like💙**
 - 💬 Ask me about **Anything About Computers💻** 
 - 📫 How to reach me &nbsp;&nbsp;<a href = "mailto: karmathecoder@gmail.com"><img align="center" src="https://camo.githubusercontent.com/9f8403b6cb58d427fe1fcaafdf1cf00299d0bf2ef53b14a5e32e66ccf657876d/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f6f676c652d676d61696c2e737667" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href = "www.linkedin.com/in/kh8x23"><img align="center" src="https://github.com/karmathecoder/karmathecoder/blob/main/source/linkedin.gif?raw=true" height="35" width="40" /></a>
+<a href = "https://linkedin.com/in/kh8x23"><img align="center" src="https://raw.githubusercontent.com/karmathecoder/karmathecoder/main/source/linkedin.gif" height="35" width="40" /></a>
 
-- ⚡ Fun fact **SSL is weak TSL is Strong. Hahahaha**
+- ⚡ Fun fact **The Firefox logo isn't a fox,It's actually a red panda**
 <hr>
 <h3 align="left"> Connect with me:
 &nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/thumbsupparrot.gif" height="40" width="40" /></a> </h3>
