@@ -65,9 +65,9 @@ Exploring,Exploring, Exploring....<img src="https://cultofthepartyparrot.com/fla
 &nbsp;&nbsp;
 <hr>
 <p>
-<h3 align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karmathecoder&show_icons=true&locale=en&layout=compact" alt="karmathecoder" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=karmathecoder&show_icons=true&locale=en" alt="karmathecoder" /></p>
-</h3>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=karmathecoder&" alt="karmathecoder" /></p>
+
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karmathecoder&show_icons=true&locale=en&layout=compact" alt="karmathecoder" width = "230"/>
+<img src="https://github-readme-stats.vercel.app/api?username=karmathecoder&theme=highcontrast&layout=compact&hide_border=true" width="45%"></a>
+
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
