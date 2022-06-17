@@ -65,9 +65,14 @@ Exploring,Exploring, Exploring....<img src="https://cultofthepartyparrot.com/fla
 &nbsp;&nbsp;
 <hr>
 <p>
-
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karmathecoder&show_icons=true&locale=en&layout=compact" alt="karmathecoder" width = "230"/>
-<img src="https://github-readme-stats.vercel.app/api?username=karmathecoder&theme=highcontrast&layout=compact&hide_border=true" width="45%"></a>
-
-
+<h3 align = "left">
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karmathecoder&show_icons=true&locale=en&layout=compact" alt="karmathecoder"/>
+<h3 align = "left">
+<img src="https://github-readme-stats.vercel.app/api?username=karmathecoder&theme=highcontrast&layout=compact&hide_border=true" width="45%"></a></h3>
+<iframe src="https://codesandbox.io/embed/typewriter-css-text-animation-ot3cc?fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="Typewriter CSS Text Animation"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
